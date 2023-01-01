@@ -1,5 +1,5 @@
-My name is Riley Sikes
-I am an aspiring programmer and game developer
+My name is Riley Sikes,
+I am an aspiring programmer and game developer,
 I hope my code is useful to you all :)
 
 <!---
